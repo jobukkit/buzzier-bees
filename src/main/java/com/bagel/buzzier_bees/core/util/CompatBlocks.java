@@ -39,7 +39,7 @@ public class CompatBlocks {
     public static final Supplier<Block> BARREL_CACTUS = () -> ForgeRegistries.BLOCKS.getValue(new ResourceLocation("atmospheric:barrel_cactus"));
     public static final Supplier<Block> CATTAIL = () -> ForgeRegistries.BLOCKS.getValue(new ResourceLocation("swampexpansion:cattail"));
 
-	public static final Supplier<Block> BAMBOO_TORCH = () -> ForgeRegistries.BLOCKS.getValue(new ResourceLocation("bambooblocks:bamboo_torch"));
+	public static final Supplier<Block> BAMBOO_TORCH = () -> ForgeRegistries.BLOCKS.getValue(new ResourceLocation("bamboo_blocks:bamboo_torch"));
     public static final Supplier<Block> WHITE_DELPHINIUM = () -> ForgeRegistries.BLOCKS.getValue(new ResourceLocation("bloomful:white_delphinium"));
     public static final Supplier<Block> BLUE_DELPHINIUM = () -> ForgeRegistries.BLOCKS.getValue(new ResourceLocation("bloomful:blue_delphinium"));
     public static final Supplier<Block> PINK_DELPHINIUM = () -> ForgeRegistries.BLOCKS.getValue(new ResourceLocation("bloomful:pink_delphinium"));
