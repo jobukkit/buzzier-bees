@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "buzzier_bees:hive_planks"
+    }
+  },
+  "result": {
+    "item": "buzzier_bees:hive_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "buzzier_bees:block/hanging_flower_pot_cube_all",
+    "textures": {
+        "plant": "buzzier_bees:block/potted_pumpkin",
+        "all": "buzzier_bees:block/potted_pumpkin"
+    }
+}

@@ -1,0 +1,189 @@
+{
+	"item.buzzier_bees.four_leaf_clover": "Trevo de quatro folhas",
+	
+	"item.buzzier_bees.honey_wand": "Varinha de mel",
+	"item.buzzier_bees.sticky_honey_wand": "Varinha de mel grudenta",
+	
+	"item.buzzier_bees.honey_apple": "Maçã com mel",
+	"item.buzzier_bees.honey_bread": "Pão com mel",
+	"item.buzzier_bees.glazed_porkchop": "Costeleta de porco com mel",
+	
+	"item.buzzier_bees.silverfish_bottle": "Traça engarrafada",
+	"item.buzzier_bees.endermite_bottle": "Endermite engarrafado",
+	"item.buzzier_bees.bee_bottle": "Abelha engarrafada",
+	
+	"item.buzzier_bees.honeycomb_banner_pattern": "Desenho para estandarte",
+  	"item.buzzier_bees.honeycomb_banner_pattern.desc": "Favo de mel",
+		
+	"item.buzzier_bees.grizzly_bear_spawn_egg": "Ovo gerador de urso pardo",
+	"item.buzzier_bees.moobloom_spawn_egg": "Ovo gerador de florivaca",
+	
+	"block.minecraft.beehive": "Colmeia artificial de carvalho",
+	"block.buzzier_bees.spruce_beehive": "Colmeia artificial de pinheiro",
+	"block.buzzier_bees.birch_beehive": "Colmeia artificial de bétula",
+	"block.buzzier_bees.jungle_beehive": "Colmeia artificial da selva",
+	"block.buzzier_bees.acacia_beehive": "Colmeia artificial de acácia",
+	"block.buzzier_bees.dark_oak_beehive": "Colmeia artificial de carvalho escuro",
+	"block.buzzier_bees.crimson_beehive": "Colmeia artificial carmesim",
+	"block.buzzier_bees.warped_beehive": "Colmeia artificial distorcida",
+	
+	"block.buzzier_bees.crystallized_honey_block": "Bloco de mel cristalizado",
+	
+	"block.buzzier_bees.honey_lamp" : "Lâmpada de mel",
+	"block.buzzier_bees.honey_pot": "Pote de mel",
+	
+	"block.buzzier_bees.honeycomb_bricks": "Tijolos de favo de mel",
+	"block.buzzier_bees.honeycomb_brick_stairs": "Escadas de tijolos de favo de mel",
+	"block.buzzier_bees.honeycomb_brick_slab": "Lade de tijolos de favo de mel",
+	"block.buzzier_bees.honeycomb_brick_wall": "Muro de tijolos de favo de mel",
+	"block.buzzier_bees.honeycomb_brick_vertical_slab": "Laje vertical de tijolos de favo de mel",
+	"block.buzzier_bees.chiseled_honeycomb_bricks": "Tijolos de favo de mel talhados",
+	
+	"block.buzzier_bees.honeycomb_tiles": "Ladrilhos de favo de mel",
+	"block.buzzier_bees.honeycomb_tile_stairs": "Escadas de ladrilhos de favo de mel",
+	"block.buzzier_bees.honeycomb_tile_slab": "Laje de ladrilhos de favo de mel",
+	"block.buzzier_bees.honeycomb_tile_wall": "Muro de ladrilhos de favo de mel",
+	"block.buzzier_bees.honeycomb_tile_vertical_slab": "Laje vertical de ladrilhos de favo de mel",
+	
+	"block.buzzier_bees.honeycomb_door": "Porta de favo de mel",
+        "block.buzzier_bees.honeycomb_trapdoor": "Alçapão de favo de mel",
+
+	
+	"block.buzzier_bees.pink_clover": "Trevo-rosa",
+	"block.buzzier_bees.white_clover": "Trevo-branco",
+	"block.buzzier_bees.buttercup": "Ranúnculo",
+	
+	"block.buzzier_bees.potted_pink_clover": "Trevo-rosa envasado",
+	"block.buzzier_bees.potted_white_clover": "Trevo-branco envasado",
+	"block.buzzier_bees.potted_buttercup": "Ranúnculo envasado",
+	
+	"block.buzzier_bees.candle": "Vela",
+	"block.buzzier_bees.soul_candle": "Vela das almas",
+	"block.buzzier_bees.ender_candle": "Vela de ender",
+	"block.buzzier_bees.cursed_candle": "Vela amaldiçoada",
+	
+	"block.buzzier_bees.white_candle": "Vela branca",
+	"block.buzzier_bees.orange_candle": "Vela laranja",
+	"block.buzzier_bees.magenta_candle": "Vela magenta",
+	"block.buzzier_bees.light_blue_candle": "Vela azul-clara",
+	"block.buzzier_bees.yellow_candle": "Vela amarela",
+	"block.buzzier_bees.lime_candle": "Vela verde-limão",
+	"block.buzzier_bees.pink_candle": "Vela rosa",
+	"block.buzzier_bees.gray_candle": "Vela cinza",
+	"block.buzzier_bees.light_gray_candle": "Vela cinza-clara",
+	"block.buzzier_bees.cyan_candle": "Vela ciano",
+	"block.buzzier_bees.purple_candle": "Vela roxa",
+	"block.buzzier_bees.blue_candle": "Vela azul",
+	"block.buzzier_bees.brown_candle": "Vela marrom",
+	"block.buzzier_bees.green_candle": "Vela verde",
+	"block.buzzier_bees.red_candle": "Vela vermelha",
+	"block.buzzier_bees.black_candle": "Vela preta",
+	
+	"block.buzzier_bees.allium_scented_candle": "Vela com aroma de alho-silvestre",
+	"block.buzzier_bees.azure_bluet_scented_candle": "Vela com aroma de flor-silvestre-azul",
+	"block.buzzier_bees.blue_orchid_scented_candle": "Vela com aroma de orquídea-azul",
+	"block.buzzier_bees.dandelion_scented_candle": "Vela com aroma de dente-de-leão",
+	"block.buzzier_bees.cornflower_scented_candle": "Vela com aroma de centáurea",
+	"block.buzzier_bees.lily_of_the_valley_scented_candle": "Vela com aroma de lírio-do-vale",
+	"block.buzzier_bees.oxeye_daisy_scented_candle": "Vela com aroma de margarida",
+	"block.buzzier_bees.poppy_scented_candle": "Vela com aroma de papoula",
+	"block.buzzier_bees.white_tulip_scented_candle": "Vela com aroma de tulipa branca",
+	"block.buzzier_bees.orange_tulip_scented_candle": "Vela com aroma de tulipa laranja",
+	"block.buzzier_bees.pink_tulip_scented_candle": "Vela com aroma de tulipa rosa",
+	"block.buzzier_bees.red_tulip_scented_candle": "Vela com aroma de tulipa vermelha",
+	"block.buzzier_bees.wither_rose_scented_candle": "Vela com aroma de rosa do wither",
+	
+	"block.buzzier_bees.pink_clover_scented_candle": "Vela com aroma de trevo-rosa",
+	"block.buzzier_bees.white_clover_scented_candle": "Vela com aroma de trevo-branco",
+	"block.buzzier_bees.buttercup_scented_candle": "Vela com aroma de ranúnculo",
+	
+	"block.buzzier_bees.cartwheel_scented_candle": "Vela com aroma de catavento",
+	"block.buzzier_bees.bluebell_scented_candle": "Vela com aroma de jacinto-silvestre",
+	"block.buzzier_bees.violet_scented_candle": "Vela com aroma de violeta",
+	"block.buzzier_bees.red_lotus_flower_scented_candle": "Vela com aroma de flor de lótus vermelha",
+	"block.buzzier_bees.white_lotus_flower_scented_candle": "Vela com aroma de flor de lótus branca",
+	"block.buzzier_bees.dianthus_scented_candle": "Vela com aroma de dianthus",
+	"block.buzzier_bees.yellow_hibiscus_scented_candle": "Vela com aroma de hibisco amarelo",
+	"block.buzzier_bees.orange_hibiscus_scented_candle": "Vela com aroma de hibisco laranja",
+	"block.buzzier_bees.red_hibiscus_scented_candle": "Vela com aroma de hibisco vermelho",
+	"block.buzzier_bees.pink_hibiscus_scented_candle": "Vela com aroma de hibisco rosa",
+	"block.buzzier_bees.magenta_hibiscus_scented_candle": "Vela com aroma de hibisco magenta",
+	"block.buzzier_bees.purple_hibiscus_scented_candle": "Vela com aroma de hibisco roxo",
+	
+	"block.buzzier_bees.warm_monkey_brush_scented_candle": "Vela com aroma de escova-de-macaco-morna",
+	"block.buzzier_bees.hot_monkey_brush_scented_candle": "Vela com aroma de escova-de-macaco-quente",
+	"block.buzzier_bees.scalding_monkey_brush_scented_candle": "Vela com aroma de escova-de-macaco-escaldante",
+	"block.buzzier_bees.water_hyacinth_scented_candle": "Vela com aroma de aguapé",
+	"block.buzzier_bees.gilia_scented_candle": "Vela com aroma de gilia",
+	"block.buzzier_bees.yucca_flower_scented_candle": "Vela com aroma de flor de yucca",
+	
+	"block.buzzier_bees.pink_searocket_scented_candle": "Vela com aroma de eruca-marítima rosa",
+	"block.buzzier_bees.white_searocket_scented_candle": "Vela com aroma de eruca-marítima branca",
+	
+	"block.buzzier_bees.autumn_crocus_scented_candle": "Vela com aroma de açafrão-do-prado",
+	
+	"entity.buzzier_bees.grizzly_bear": "Urso pardo",
+        "entity.buzzier_bees.moobloom": "Florivaca",
+	
+	"entity.minecraft.villager.buzzier_bees.apiarist": "Apicultor",
+	
+	"effect.buzzier_bees.sunny": "Ensolarado",
+	
+	"item.minecraft.potion.effect.long_luck": "Poção de sorte",
+	"item.minecraft.potion.effect.strong_luck": "Poção de sorte",
+	"item.minecraft.potion.effect.unluck": "Poção de azar",
+	"item.minecraft.potion.effect.long_unluck": "Poção de azar",
+	"item.minecraft.potion.effect.strong_unluck": "Poção de azar",	
+
+	"item.minecraft.splash_potion.effect.long_luck": "Poção arremessável de sorte",
+	"item.minecraft.splash_potion.effect.strong_luck": "Poção arremessável de sorte",
+	"item.minecraft.splash_potion.effect.unluck": "Poção arremessável de azar",
+	"item.minecraft.splash_potion.effect.long_unluck": "Poção arremessável de azar",
+	"item.minecraft.splash_potion.effect.strong_unluck": "Poção arremessável de azar",
+	
+	"item.minecraft.lingering_potion.effect.long_luck": "Poção prolongada de sorte",
+	"item.minecraft.lingering_potion.effect.strong_luck": "Poção prolongada de sorte",
+	"item.minecraft.lingering_potion.effect.unluck": "Poção prolongada de azar",
+	"item.minecraft.lingering_potion.effect.long_unluck": "Poção prolongada de azar",
+	"item.minecraft.lingering_potion.effect.strong_unluck": "Poção prolongada de azar",
+	
+	"item.minecraft.tipped_arrow.effect.long_luck": "Flecha de sorte",
+	"item.minecraft.tipped_arrow.effect.strong_luck": "Flecha de sorte",
+	"item.minecraft.tipped_arrow.effect.unluck": "Flecha de azar",
+	"item.minecraft.tipped_arrow.effect.long_unluck": "Flecha de azar",
+	"item.minecraft.tipped_arrow.effect.strong_unluck": "Flecha de azar",
+	
+	"advancements.husbandry.four_leaf_clover.title": "Mais sorte desta vez",
+	"advancements.husbandry.four_leaf_clover.description": "Encontre um trevo de quatro folhas",
+	
+	"advancements.husbandry.honey_apple.title": "Uma maçã por dia",
+	"advancements.husbandry.honey_apple.description": "Use uma maçã com mel para curar levitação",
+	
+	"advancements.husbandry.honey_bread.title": "Belas maldições",
+	"advancements.husbandry.honey_bread.description": "Use pão com mel para curar mau presságio",
+	
+	"advancements.husbandry.glazed_porkchop.title": "Joelhos fracos, braços melados",
+	"advancements.husbandry.glazed_porkchop.description": "Use uma costeleta de porco com mel para curar cansaço",
+	
+	"tooltip.buzzier_bees.is_baby": "Bebê",
+	"tooltip.buzzier_bees.has_nectar": "Polinizada",
+	"tooltip.buzzier_bees.is_angry": "Com raiva",
+	"tooltip.buzzier_bees.has_stung": "Sem ferrão",
+	
+	"block.minecraft.banner.mca_honeycomb.black": "Favo de mel preto",
+  	"block.minecraft.banner.mca_honeycomb.red": "Favo de mel vermelho",
+  	"block.minecraft.banner.mca_honeycomb.green": "Favo de mel verde",
+  	"block.minecraft.banner.mca_honeycomb.brown": "Favo de mel marrom",
+  	"block.minecraft.banner.mca_honeycomb.blue": "Favo de mel azul",
+  	"block.minecraft.banner.mca_honeycomb.purple": "Favo de mel roxo",
+  	"block.minecraft.banner.mca_honeycomb.cyan": "Favo de mel ciano",
+  	"block.minecraft.banner.mca_honeycomb.silver": "Favo de mel cinza-claro",
+  	"block.minecraft.banner.mca_honeycomb.gray": "Favo de mel cinza",
+  	"block.minecraft.banner.mca_honeycomb.pink": "Favo de mel rosa",
+  	"block.minecraft.banner.mca_honeycomb.lime": "Favo de mel verde-limão",
+  	"block.minecraft.banner.mca_honeycomb.yellow": "Favo de mel amarelo",
+  	"block.minecraft.banner.mca_honeycomb.lightBlue": "Favo de mel azul-claro",
+  	"block.minecraft.banner.mca_honeycomb.magenta": "Favo de mel magenta",
+  	"block.minecraft.banner.mca_honeycomb.orange": "Favo de mel laranja",
+  	"block.minecraft.banner.mca_honeycomb.white": "Favo de mel branco"
+}

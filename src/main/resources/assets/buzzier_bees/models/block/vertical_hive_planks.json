@@ -1,0 +1,6 @@
+{
+    "parent": "buzzier_bees:block/vertical_planks",
+    "textures": {
+        "all": "buzzier_bees:block/hive_planks"
+    }
+}

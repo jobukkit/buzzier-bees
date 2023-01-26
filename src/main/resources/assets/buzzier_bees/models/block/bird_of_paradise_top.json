@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "buzzier_bees:block/bird_of_paradise_top"
+    }
+}

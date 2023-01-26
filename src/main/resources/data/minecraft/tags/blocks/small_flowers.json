@@ -1,19 +1,19 @@
 {
   "replace": false,
   "values": [
-    "buzzierbees:white_clover",
-    "buzzierbees:pink_clover",
-    "buzzierbees:violet",
-    "buzzierbees:jolyce",
-    "buzzierbees:bluebell",
-    "buzzierbees:columbine",
-    "buzzierbees:cartwheel",
+    "buzzier_bees:white_clover",
+    "buzzier_bees:pink_clover",
+    "buzzier_bees:violet",
+    "buzzier_bees:jolyce",
+    "buzzier_bees:bluebell",
+    "buzzier_bees:columbine",
+    "buzzier_bees:cartwheel",
     
-    "buzzierbees:daybloom",
-    "buzzierbees:orange_hibiscus",
-    "buzzierbees:red_hibiscus",
-    "buzzierbees:pink_hibiscus",
-    "buzzierbees:magenta_hibiscus",
-    "buzzierbees:purple_hibiscus"
+    "buzzier_bees:daybloom",
+    "buzzier_bees:orange_hibiscus",
+    "buzzier_bees:red_hibiscus",
+    "buzzier_bees:pink_hibiscus",
+    "buzzier_bees:magenta_hibiscus",
+    "buzzier_bees:purple_hibiscus"
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "buzzier_bees:candle",
+    "#buzzier_bees:dyed_candles",
+    "#buzzier_bees:scented_candles"
+  ]
+}

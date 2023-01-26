@@ -19,7 +19,7 @@ apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'maven-publish'
 
-version = '1.5.2'
+version = '1.5.2-koepel'
 group = 'com.bagel.buzzierbees'
 archivesBaseName = 'Buzzier-Bees-1.15.2'
 
@@ -66,9 +66,15 @@ minecraft {
     }
 }
 
+repositories {
+    flatDir {
+        dirs "libs"
+    }
+}
+
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.15.2-31.1.85'
-    implementation fg.deobf("curse.maven:abnormals-core:2980113")
+    minecraft 'net.minecraftforge:forge:1.15.2-31.2.57'
+    implementation fg.deobf("com.teamabnormals.abnormals_core:abnormals-core:1.15.2-1.0.6")
 }
 
 jar {

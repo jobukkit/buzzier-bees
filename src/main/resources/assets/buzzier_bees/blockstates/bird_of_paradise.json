@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "buzzier_bees:block/bird_of_paradise_bottom" },
+        "half=upper":    { "model": "buzzier_bees:block/bird_of_paradise_top" }
+    }
+}

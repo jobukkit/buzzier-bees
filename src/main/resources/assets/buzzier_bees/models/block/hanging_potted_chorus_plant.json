@@ -1,0 +1,6 @@
+{
+    "parent": "buzzier_bees:block/hanging_flower_pot_cross",
+    "textures": {
+        "plant": "buzzier_bees:block/potted_chorus_plant"
+    }
+}

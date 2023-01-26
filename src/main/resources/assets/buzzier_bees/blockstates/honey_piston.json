@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "extended=false,facing=down": { "model": "buzzier_bees:block/honey_piston", "x": 90 },
+    "extended=false,facing=up": { "model": "buzzier_bees:block/honey_piston", "x": 270 },
+    "extended=false,facing=north": { "model": "buzzier_bees:block/honey_piston" },
+    "extended=false,facing=south": { "model": "buzzier_bees:block/honey_piston", "y": 180 },
+    "extended=false,facing=west": { "model": "buzzier_bees:block/honey_piston", "y": 270 },
+    "extended=false,facing=east": { "model": "buzzier_bees:block/honey_piston", "y": 90 },
+    "extended=true,facing=down": { "model": "block/piston_base", "x": 90 },
+    "extended=true,facing=up": { "model": "block/piston_base", "x": 270 },
+    "extended=true,facing=north": { "model": "block/piston_base" },
+    "extended=true,facing=south": { "model": "block/piston_base", "y": 180 },
+    "extended=true,facing=west": { "model": "block/piston_base", "y": 270 },
+    "extended=true,facing=east": { "model": "block/piston_base", "y": 90 }
+  }
+}

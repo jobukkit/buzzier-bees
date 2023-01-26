@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "buzzier_bees:wax"
+    },
+    {
+      "item": "buzzier_bees:crystallized_honey"
+    }  
+  ],
+  "result": {
+    "item": "buzzier_bees:bee_soup"
+  }
+}

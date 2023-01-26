@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      [
+        {
+            "tag": "buzzier_bees:dyed_candles"
+        },
+        {
+            "item": "buzzier_bees:candle"
+        }
+      ],
+        {
+            "item": "flamboyant:pale_yellow_dye"
+        }
+    ],
+    "result": {
+        "item": "buzzier_bees:pale_yellow_candle",
+        "count": 1
+    },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "flamboyant"
+    }
+  ]
+}

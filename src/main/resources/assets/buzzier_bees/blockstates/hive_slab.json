@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "buzzier_bees:block/hive_slab" },
+        "type=top": { "model": "buzzier_bees:block/hive_slab_top" },
+        "type=double": { "model": "buzzier_bees:block/hive_planks" }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoor",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "buzzier_bees:hive_planks"
+    }
+  },
+  "result": {
+    "item": "buzzier_bees:hive_trapdoor",
+    "count": 2
+  }
+}

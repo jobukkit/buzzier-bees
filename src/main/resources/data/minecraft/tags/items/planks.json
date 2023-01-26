@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "buzzierbees:hive_planks",
-    "buzzierbees:vertical_hive_planks"
+    "buzzier_bees:hive_planks",
+    "buzzier_bees:vertical_hive_planks"
   ]
 }

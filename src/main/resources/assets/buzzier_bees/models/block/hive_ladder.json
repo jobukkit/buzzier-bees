@@ -1,0 +1,8 @@
+{
+    "parent": "block/ladder",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "buzzier_bees:block/hive_ladder",
+        "texture": "buzzier_bees:block/hive_ladder"
+    }
+}
