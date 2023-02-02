@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "buzzier_bees:honey_brick_wall"
+          "name": "buzzier_bees:honeycomb_tile_stairs"
         }
       ],
       "conditions": [

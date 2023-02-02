@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "buzzier_bees:honey_bricks"
+          "name": "buzzier_bees:honeycomb_bricks"
         }
       ],
       "conditions": [

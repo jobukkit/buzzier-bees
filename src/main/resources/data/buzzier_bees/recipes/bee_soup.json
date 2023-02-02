@@ -5,17 +5,17 @@
       "item": "minecraft:bowl"
     },
     {
-      "item": "minecraft:honeycomb"
+      "item": "minecraft:carrot"
     },
     {
       "item": "minecraft:honey_bottle"
     },
     {
-      "item": "buzzier_bees:wax"
+      "tag": "forge:crops/ginger"
     },
     {
-      "item": "buzzier_bees:crystallized_honey"
-    }  
+      "tag": "forge:dusts/salt"
+    }
   ],
   "result": {
     "item": "buzzier_bees:bee_soup"

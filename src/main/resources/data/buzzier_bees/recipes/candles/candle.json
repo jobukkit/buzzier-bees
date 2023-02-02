@@ -10,7 +10,7 @@
             "item": "minecraft:string"
         },
         "S": {
-            "item": "buzzier_bees:wax"
+            "item": "minecraft:honeycomb"
         }
     },
     "result": {

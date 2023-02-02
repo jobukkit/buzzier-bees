@@ -2,7 +2,7 @@
 	"item.buzzier_bees.wax": "Wax",
 	"item.buzzier_bees.crystallized_honey": "Crystallized Honey",
 	"item.buzzier_bees.clover_honey_bottle": "Clover Honey Bottle",
-	"item.buzzier_bees.bee_soup": "Bee Soup",
+	"item.buzzier_bees.bee_soup": "Honey Carrot Soup",
 	"item.buzzier_bees.clover_leaf": "Clover Leaf",
 	"item.buzzier_bees.four_leaf_clover": "Four Leaf Clover",
 	"item.buzzier_bees.honey_wand": "Honey Wand",
@@ -64,12 +64,13 @@
 	"block.buzzier_bees.clover_honey_block": "Clover Honey Block",
 	"block.buzzier_bees.honey_lamp" : "Honey Lamp",
 	"block.buzzier_bees.honey_pot": "Honey Pot",
-	
-	"block.buzzier_bees.honey_bricks": "Honey Bricks",
-	"block.buzzier_bees.honey_brick_stairs": "Honey Brick Stairs",
-	"block.buzzier_bees.honey_brick_slab": "Honey Brick Slab",
-	"block.buzzier_bees.honey_brick_wall": "Honey Brick Wall",
-	"block.buzzier_bees.honey_brick_vertical_slab": "Honey Brick Vertical Slab",
+
+	"block.buzzier_bees.honeycomb_bricks": "Honeycomb Bricks",
+	"block.buzzier_bees.honeycomb_brick_stairs": "Honeycomb Brick Stairs",
+	"block.buzzier_bees.honeycomb_brick_slab": "Honeycomb Brick Slab",
+	"block.buzzier_bees.honeycomb_brick_wall": "Honeycomb Brick Wall",
+	"block.buzzier_bees.honeycomb_brick_vertical_slab": "Honeycomb Brick Vertical Slab",
+	"block.buzzier_bees.chiseled_honeycomb_bricks": "Chiseled Honeycomb Bricks",
 	
 	"block.buzzier_bees.cartwheel" : "Cartwheel",
 	"block.buzzier_bees.bluebell" : "Bluebell",

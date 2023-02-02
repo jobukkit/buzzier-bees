@@ -6,11 +6,11 @@
   ],
   "key": {
     "#": {
-      "item": "buzzier_bees:honey_bricks"
+      "item": "buzzier_bees:honeycomb_bricks"
     }
   },
   "result": {
-    "item": "buzzier_bees:honey_brick_wall",
+    "item": "buzzier_bees:honeycomb_brick_wall",
     "count": 6
   }
 }

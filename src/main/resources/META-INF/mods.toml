@@ -12,9 +12,7 @@ credits="Bratistolf" #optional
 authors="bageldotjpg, Five, and Farcr" #optional
 
 description='''
-Buzzier Bees expands on the content introduced in 1.15. 
-Main features include wax, crystallized honey, and candles, and much more!
-Grizzly Bears, Black Bears, and Bumblebees will come soon!
+Buzzier Bees expands on the content introduced in 1.15, introducing candles, new building blocks, and more!
 '''
 
 [[dependencies.buzzier_bees]]

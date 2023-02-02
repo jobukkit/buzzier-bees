@@ -5,7 +5,7 @@
             "tag": "buzzier_bees:dyed_candles"
         },
         {
-            "item": "buzzier_bees:wax"
+            "item": "minecraft:honeycomb"
         }
     ],
     "result": {
